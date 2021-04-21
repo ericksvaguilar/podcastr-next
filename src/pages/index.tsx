@@ -30,7 +30,6 @@
 // SSG
 
 export default function Home(props) {
-  console.log(props.episodes); // Esse console é executado no servidor do next
   return <h1>Index</h1>;
 }
 
