@@ -33,8 +33,8 @@ See the layout on [Figma]()
 In the project directory:
 
 `npm install`
-
 `npm run dev`
+`npm run server`
 
 ## How to contribute
 
