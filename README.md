@@ -17,7 +17,7 @@
 
 ## Layout
 
-See the layout on [Figma]()
+See the layout on [Figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
 
 ### Desktop
 
@@ -31,10 +31,12 @@ See the layout on [Figma]()
 ## Start the Project
 
 In the project directory:
+You will need yarn or npm
 
-`npm install`
-`npm run dev`
-`npm run server`
+1. `yarn install`
+2. `yarn server`
+3. `yarn dev`
+
 
 ## How to contribute
 
